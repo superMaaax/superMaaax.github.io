@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3906163.css",
+    "main.js": "/static/js/main.af46e9e3.js",
+    "static/media/me.jpg": "/static/media/me.706037ab88c9950765fc.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/react-16-svgrepo-com.svg": "/static/media/react-16-svgrepo-com.44c2e471d69171819ad783ddb8c71cf4.svg",
+    "static/media/vscode-16-svgrepo-com.svg": "/static/media/vscode-16-svgrepo-com.ee581bd1c9f19eb9b10eeb8209c7a35f.svg",
+    "static/media/java-16-svgrepo-com.svg": "/static/media/java-16-svgrepo-com.7f0baf57559f0b6f281ca9f77a2d0109.svg",
+    "static/media/javascript-16-svgrepo-com.svg": "/static/media/javascript-16-svgrepo-com.00024b4f71c9c28980304b703fc224e5.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/static/media/nav-icon4.3a2cfa5ec79af41c54f9d1d3e509a949.svg",
+    "static/media/docker-16-svgrepo-com.svg": "/static/media/docker-16-svgrepo-com.ed251caf542419da93eee5656fdcca03.svg",
+    "static/media/html-16-svgrepo-com.svg": "/static/media/html-16-svgrepo-com.c2e0f2c563bbb8401fc0e9d245c53fdb.svg",
+    "static/media/c-16-svgrepo-com.svg": "/static/media/c-16-svgrepo-com.c49c51d76e92e0b22d718008e8b4b6be.svg",
+    "static/media/vim-16-svgrepo-com.svg": "/static/media/vim-16-svgrepo-com.7e997088316c520fb628f32206755c69.svg",
+    "static/media/json-16-svgrepo-com.svg": "/static/media/json-16-svgrepo-com.f87fe81db7daf358c3a02ad0ff34db63.svg",
+    "static/media/python-16-svgrepo-com.svg": "/static/media/python-16-svgrepo-com.9a7a09caddab23fd31df4b908f67c067.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.18901d4cc1142dc91aa915f01605d9a1.svg",
+    "static/media/npm-16-svgrepo-com.svg": "/static/media/npm-16-svgrepo-com.c83982e43775cfd58febd9d50de06de9.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "main.a3906163.css.map": "/static/css/main.a3906163.css.map",
+    "main.af46e9e3.js.map": "/static/js/main.af46e9e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3906163.css",
+    "static/js/main.af46e9e3.js"
+  ]
+}
